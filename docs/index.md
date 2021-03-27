@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to MkDocs v6
  
 Hello world
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
